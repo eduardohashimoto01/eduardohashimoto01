@@ -1,6 +1,7 @@
 ## Olá Mundo! Meu nome é Eduardo Hashimoto
 
 - 🔭 Em Busca De Um Estágio
+- 📓 Cursando Ciência da Computação
 - 🌱 Estudando Python
 - 📫 Como entrar em contato comigo: eduardohashimoto01@gmail.com
 - 😄 Pronouns: Ele/Dele
