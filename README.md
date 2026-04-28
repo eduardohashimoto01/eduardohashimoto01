@@ -2,7 +2,7 @@
 
 - 🔭 Em Busca De Um Estágio
 - 🌱 Estudando Python
-- 📫 How to reach me: eduardohashimoto01@gmail.com
+- 📫 Como entrar em contato comigo: eduardohashimoto01@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <picture>
